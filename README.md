@@ -34,7 +34,7 @@
 ## Databases
 
 - [php-rocksdb-rc](https://github.com/s00d/php-rocksdb-rc) - PHP wrapper for RocksDB.
-- [turso-client-php](https://github.com/tursodatabase/turso-client-php) - Native PHP extension for libSQL with remote connections, replication, and offline writes.
+- [turso-client-php](https://github.com/tursodatabase/turso-client-php) - Official Turso PHP client for libSQL with remote connections, replication, and offline writes.
 
 ## Document Processing
 
