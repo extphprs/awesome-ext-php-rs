@@ -12,6 +12,7 @@
 - [Document Processing](#document-processing)
 - [Internationalization](#internationalization)
 - [Networking](#networking)
+- [Storage](#storage)
 
 ## Async & Runtime
 
@@ -50,6 +51,10 @@
 ## Networking
 
 - [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - Rust-based gRPC extension for PHP, drop-in replacement for ext-grpc.
+
+## Storage
+
+- [opendal](https://github.com/apache/opendal) - Apache OpenDAL unified data access layer for diverse storage services.
 
 ## Contributing
 
