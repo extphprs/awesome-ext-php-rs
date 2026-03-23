@@ -1,0 +1,51 @@
+# Awesome ext-php-rs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of projects built with [ext-php-rs](https://github.com/extphprs/ext-php-rs).
+
+## Contents
+
+- [Async & Runtime](#async--runtime)
+- [Audio & Media](#audio--media)
+- [Cryptography & Security](#cryptography--security)
+- [Data Formats](#data-formats)
+- [Databases](#databases)
+- [Document Processing](#document-processing)
+- [Internationalization](#internationalization)
+- [Networking](#networking)
+
+## Async & Runtime
+
+- [php-tokio](https://github.com/danog/php-tokio) - Use async Rust libraries from PHP, with Revolt event loop integration.
+
+## Audio & Media
+
+- [opus-php](https://github.com/davidcole1340/opus-php) - Audio encoder for the Opus codec in PHP.
+
+## Cryptography & Security
+
+- [anonaddy-sequoia](https://gitlab.com/willbrowning/anonaddy-sequoia) - Sequoia encryption PHP extension.
+- [php-scrypt](https://github.com/appwrite/php-scrypt) - PHP wrapper for the scrypt password hashing algorithm.
+
+## Data Formats
+
+- [tomlrs-php](https://github.com/jphenow/tomlrs-php) - TOML data format parser.
+
+## Databases
+
+- [php-rocksdb-rc](https://github.com/s00d/php-rocksdb-rc) - PHP wrapper for RocksDB.
+
+## Document Processing
+
+- [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence framework extracting text from 91+ file formats.
+
+## Internationalization
+
+- [fluent-php](https://github.com/Ennexa/fluent-php) - PHP wrapper for Mozilla's Project Fluent i18n library.
+
+## Networking
+
+- [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - Rust-based gRPC extension for PHP, drop-in replacement for ext-grpc.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
