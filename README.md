@@ -31,6 +31,7 @@
 
 ## Data Formats
 
+- [rust-mail/ical](https://github.com/ProtonMail/rust-mail/tree/master/shared/ical) - iCalendar (RFC 5545/5546) parser and editor by Proton Mail.
 - [tomlrs-php](https://github.com/jphenow/tomlrs-php) - TOML data format parser.
 
 ## Databases
