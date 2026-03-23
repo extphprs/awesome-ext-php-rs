@@ -16,6 +16,7 @@
 ## Async & Runtime
 
 - [pasir](https://github.com/el7cosmos/pasir) - PHP application server written in Rust with embedded PHP execution.
+- [php-node](https://github.com/platformatic/php-node) - Run PHP applications within a Node.js process with in-memory communication.
 - [php-tokio](https://github.com/danog/php-tokio) - Use async Rust libraries from PHP, with Revolt event loop integration.
 
 ## Audio & Media
