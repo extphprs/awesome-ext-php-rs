@@ -37,6 +37,7 @@
 
 ## Databases
 
+- [aerospike-php-client](https://github.com/aerospike/php-client) - Official Aerospike client for PHP 8.
 - [php-rocksdb-rc](https://github.com/s00d/php-rocksdb-rc) - PHP wrapper for RocksDB.
 - [turso-client-php](https://github.com/tursodatabase/turso-client-php) - Official Turso PHP client for libSQL with remote connections, replication, and offline writes.
 
