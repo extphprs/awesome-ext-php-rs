@@ -34,6 +34,7 @@
 
 - [rust-mail/ical](https://github.com/ProtonMail/rust-mail/tree/master/shared/ical) - iCalendar (RFC 5545/5546) parser and editor by Proton Mail.
 - [tomlrs-php](https://github.com/jphenow/tomlrs-php) - TOML data format parser.
+- [flow-php/arrow-ext](https://github.com/flow-php/arrow-ext) - PHP Extension for Apache Arrow based on apache/rs-arrow 
 
 ## Databases
 
