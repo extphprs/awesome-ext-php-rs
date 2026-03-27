@@ -32,6 +32,7 @@
 
 ## Data Formats
 
+- [arrow-ext](https://github.com/flow-php/arrow-ext) - PHP extension for reading and writing Apache Parquet files with support for various data types and compression.
 - [rust-mail/ical](https://github.com/ProtonMail/rust-mail/tree/master/shared/ical) - iCalendar (RFC 5545/5546) parser and editor by Proton Mail.
 - [tomlrs-php](https://github.com/jphenow/tomlrs-php) - TOML data format parser.
 
