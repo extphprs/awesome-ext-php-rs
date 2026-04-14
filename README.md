@@ -28,6 +28,7 @@
 
 - [anonaddy-sequoia](https://gitlab.com/willbrowning/anonaddy-sequoia) - Sequoia encryption PHP extension.
 - [biscuit-php](https://github.com/ptondereau/biscuit-php) - PHP bindings for Biscuit, a bearer token with offline attenuation and decentralized verification.
+- [ext-pqcrypto](https://github.com/paragonie/ext-pqcrypto) - PHP wrapper for RustCrypto's post-quantum cryptography implementations.
 - [php-scrypt](https://github.com/appwrite/php-scrypt) - PHP wrapper for the scrypt password hashing algorithm.
 
 ## Data Formats
