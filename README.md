@@ -58,6 +58,7 @@
 ## Storage
 
 - [opendal](https://github.com/apache/opendal) - Apache OpenDAL unified data access layer for diverse storage services.
+- [stephp-cap-std](https://github.com/slegrand45/stephp-cap-std) - PHP bindings for [cap-std](https://github.com/bytecodealliance/cap-std), a capability-oriented version of the Rust standard library.
 
 ## Contributing
 
