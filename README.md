@@ -45,6 +45,7 @@
 
 ## Document Processing
 
+- [ext-typst](https://github.com/carthage-software/ext-typst) - PHP extension that embeds the Typst typesetting engine.
 - [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence framework extracting text from 91+ file formats.
 
 ## Internationalization
