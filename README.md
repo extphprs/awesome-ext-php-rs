@@ -35,7 +35,6 @@
 
 - [arrow-ext](https://github.com/flow-php/arrow-ext) - PHP extension for reading and writing Apache Parquet files with support for various data types and compression.
 - [graphql-php-accelerator](https://github.com/er1z/graphql-php-accelerator) - PHP extension to accelerate the GraphQL parser of webonyx/graphql-php.
-- [php-toolkit/native-apis](https://github.com/WordPress/php-toolkit/tree/trunk/extensions/native-apis) - Rust-backed native HTML, XML, and URL processors for the WordPress PHP Toolkit.
 - [rust-mail/ical](https://github.com/ProtonMail/rust-mail/tree/master/shared/ical) - iCalendar (RFC 5545/5546) parser and editor by Proton Mail.
 - [tomlrs-php](https://github.com/jphenow/tomlrs-php) - TOML data format parser.
 
