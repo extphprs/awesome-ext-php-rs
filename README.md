@@ -56,6 +56,7 @@
 ## Networking
 
 - [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - Rust-based gRPC extension for PHP, drop-in replacement for ext-grpc.
+- [iggy-php](https://github.com/apache/iggy/tree/master/foreign/php) - PHP client for Apache Iggy, the persistent message streaming platform.
 
 ## Storage
 
