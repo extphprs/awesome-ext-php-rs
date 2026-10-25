@@ -57,6 +57,7 @@
 
 - [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - Rust-based gRPC extension for PHP, drop-in replacement for ext-grpc.
 - [iggy-php](https://github.com/apache/iggy/tree/master/foreign/php) - PHP client for Apache Iggy, the persistent message streaming platform.
+- [rabbit-rs](https://github.com/Goopil/php-rabbit-rs) - Native Rust RabbitMQ (AMQP 0-9-1) transport for PHP and Laravel, with a PIE-installable extension and a Laravel queue driver.
 
 ## Storage
 
